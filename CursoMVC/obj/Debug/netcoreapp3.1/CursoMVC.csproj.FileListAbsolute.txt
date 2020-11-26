@@ -8,9 +8,8 @@ C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\CursoMVC.pdb
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\CursoMVC.Views.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\CursoMVC.Views.pdb
+C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -27,9 +26,7 @@ C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
@@ -58,6 +55,7 @@ C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
@@ -141,6 +139,7 @@ C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csprojAssemblyReference.cache
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.AssemblyInfoInputs.cache
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.AssemblyInfo.cs
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csproj.CoreCompileInputs.cache
@@ -160,6 +159,11 @@ C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -172,9 +176,3 @@ C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.dll
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.pdb
 C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.genruntimeconfig.cache
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csprojAssemblyReference.cache
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
-C:\Users\rafael.j.dos.santos\source\repos\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs
